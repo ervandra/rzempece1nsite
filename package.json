@@ -2,7 +2,7 @@
   "name": "custom-filter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://1nplay.volleyhall.org",
   "type": "module",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
